@@ -3,7 +3,7 @@ return {
 
     ["8b1a6181-0032-473e-9a89-1e22c8b805a5"] = "KEY_a1b3c5d7e9f2h4j6k8m0",
     ["648d8b08-4105-41bc-84f4-90f19f5d0be9"] = "KEY_x9y8z7w5v3u1t0s2r4q6p",
-    ["3"] = "KEY_m2n4p6q8r0s1t3u5v7w9x",
+    ["10b30229-5b98-4def-af97-14caf32aa274"] = "KEY_m2n4p6q8r0s1t3u5v7w9x",
     ["4"] = "KEY_l5k7j9h1g3f5d7e8a2b4c",
     ["5"] = "KEY_z1x3c5v7b9n0m2q4w6e8r",
     ["6"] = "KEY_t9y7u5i3o1p2a4s6d8f0g",
